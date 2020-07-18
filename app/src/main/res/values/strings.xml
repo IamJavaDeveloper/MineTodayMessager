@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Чат MineToday</string>
+    <string name="hint_message">Введите сообщение</string>
+    <string name="button_name">Отправить</string>
+</resources>
