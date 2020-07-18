@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "574959592515",
+    "firebase_url": "https://students-chat-9d29f.firebaseio.com",
+    "project_id": "students-chat-9d29f",
+    "storage_bucket": "students-chat-9d29f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574959592515:android:ccb34adad7cd450c73e0f6",
+        "android_client_info": {
+          "package_name": "team.adevelopers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574959592515-e3nmaacufbvu4s8o4jl7s04b3oe52fc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team.adevelopers",
+            "certificate_hash": "1adb1b0cd667958bb26548ae694821d30ffa8d7a"
+          }
+        },
+        {
+          "client_id": "574959592515-o282phgs80qdokc562ej1ohbnvbo69lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrDlEgWBNosTITVH3hX70429mER6oZhJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574959592515-o282phgs80qdokc562ej1ohbnvbo69lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
