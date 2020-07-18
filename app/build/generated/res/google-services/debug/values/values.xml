@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">574959592515-o282phgs80qdokc562ej1ohbnvbo69lp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://students-chat-9d29f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">574959592515</string>
+    <string name="google_api_key" translatable="false">AIzaSyDrDlEgWBNosTITVH3hX70429mER6oZhJE</string>
+    <string name="google_app_id" translatable="false">1:574959592515:android:ccb34adad7cd450c73e0f6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDrDlEgWBNosTITVH3hX70429mER6oZhJE</string>
+    <string name="google_storage_bucket" translatable="false">students-chat-9d29f.appspot.com</string>
+    <string name="project_id" translatable="false">students-chat-9d29f</string>
+</resources>
